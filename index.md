@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# confei.to
 
-You can use the [editor on GitHub](https://github.com/thermes/www.confei.to/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[金平糖](https://ja.wikipedia.org/wiki/%E9%87%91%E5%B9%B3%E7%B3%96)
+                
+金平糖（こんぺいとう、コンペイトー）とは、砂糖と下味のついた水分を原料に、表面に凹凸状の突起（角状）をもつ小球形の菓子。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thermes/www.confei.to/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+金米糖、金餅糖、糖花とも表記される。語源はポルトガル語のコンフェイト（confeito [kõˈfɐjtu]、糖菓の意）。
